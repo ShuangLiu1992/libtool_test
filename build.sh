@@ -18,3 +18,4 @@ cd app_build
 cmake ../app
 cmake --build . --config Release
 ./app
+nm ./libcomb.a 
